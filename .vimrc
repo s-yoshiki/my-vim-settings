@@ -13,6 +13,7 @@ set background=dark
 
 set tabstop=4 "インデントをスペース4つ分に設定
 set smartindent "オートインデント
+set backspace=indent,eol,start "deleteキーに関する設定
 
 "#####検索設定#####
 set ignorecase "大文字/小文字の区別なく検索する
